@@ -1,21 +1,21 @@
-# Week 1 – Business Insights
+# Nädal 1 – Ärilised järeldused
 
-## Pricing insights
+## Hinnastamise järeldused
 
-The product prices range from 13.53 € to 434.08 €.
+Toodete hinnad jäävad vahemikku 13,53 € kuni 434,08 €.
 
-The most expensive products are mainly in the jalanõud category, while the cheapest products are mainly in the aksessuaarid and laste_riided categories.
+Kõige kallimad tooted on peamiselt jalanõude kategoorias, samas kui kõige odavamad tooted kuuluvad peamiselt aksessuaaride ja laste_riiete kategooriatesse.
 
-## Category insights
+## Kategooriate järeldused
 
-The naiste_riided category contains 70 products.
+Naiste_riiete kategoorias on 70 toodet.
 
-There are 5 product categories in total, providing a useful basis for comparing product assortment and pricing.
+Kokku on 5 tootekategooriat, mis annab hea aluse tootevaliku ja hinnastamise võrdlemiseks.
 
-## Data quality
+## Andmekvaliteet
 
-No missing retail prices or missing product categories were found in the Products table.
+Products tabelis ei leitud puuduvaid jaehindu ega puuduvaid tootekategooriaid.
 
-## Business recommendation
+## Äriline soovitus
 
-Further analysis should compare category size, average prices and price ranges to identify categories with the strongest potential for sales and revenue growth.
+Edasises analüüsis võiks võrrelda kategooriate suurust, keskmisi hindu ja hinnavahemikke, et tuvastada kõige suurema müügi- ja tulukasvu potentsiaaliga kategooriad.
