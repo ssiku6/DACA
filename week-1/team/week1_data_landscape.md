@@ -1,23 +1,23 @@
-# Week 1 – Data Landscape
+# Nädal 1 – Andmemaastik
 
-## Overview
+## Ülevaade
 
-The Products table contains 362 products across 5 categories:
+Products tabel sisaldab 362 toodet viies kategoorias:
+
 - jalanõud
 - laste_riided
 - aksessuaarid
 - naiste_riided
 - meeste_riided
 
-## Key findings
+## Peamised leiud
 
-- Product prices range from 13.53 € to 434.08 €.
-- The most expensive products are mainly in the jalanõud category.
-- The cheapest products are mainly in the aksessuaarid and laste_riided categories.
-- The naiste_riided category contains 70 products.
-- No missing retail prices or categories were found.
+- Toodete hinnad jäävad vahemikku 13,53 € kuni 434,08 €.
+- Kõige kallimad tooted on peamiselt jalanõude kategoorias.
+- Kõige odavamad tooted on peamiselt aksessuaaride ja laste_riiete kategoorias.
+- naiste_riided kategoorias on 70 toodet.
+- Puuduvaid jaehindu ega kategooriaid ei leitud.
 
-## Recommendation
+## Soovitus
 
-The data appears to be well structured and complete. 
-Further analysis could compare prices and product counts across categories to identify potential sales opportunities.
+Andmed on hästi struktureeritud ja täielikud. Edasises analüüsis võiks võrrelda kategooriate hindu ja toodete arvu, et leida võimalikke müügivõimalusi.
