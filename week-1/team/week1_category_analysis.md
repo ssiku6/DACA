@@ -1,24 +1,25 @@
-# Week 1 – Category Analysis
+# Nädal 1 – Kategooriate analüüs
 
-## Category overview
+## Kategooriate ülevaade
 
-The Products table contains 362 products across 5 categories.
+Products tabel sisaldab 362 toodet viies kategoorias.
 
-The categories are:
+Kategooriad on:
+
 - jalanõud
 - laste_riided
 - aksessuaarid
 - naiste_riided
 - meeste_riided
 
-## Findings
+## Leiud
 
-The jalanõud category dominates among the most expensive products.
+Jalanõude kategooria on ülekaalus kõige kallimate toodete hulgas.
 
-The cheapest products are mainly from the aksessuaarid and laste_riided categories.
+Kõige odavamad tooted pärinevad peamiselt aksessuaaride ja laste_riiete kategooriatest.
 
-The naiste_riided category contains 70 products.
+Naiste_riiete kategoorias on 70 toodet.
 
-## Recommendation
+## Soovitus
 
-Category-level analysis could be used to compare product prices and identify categories with stronger potential for sales.
+Kategooriapõhist analüüsi võiks kasutada toodete hindade võrdlemiseks ja suurema müügipotentsiaaliga kategooriate tuvastamiseks.
