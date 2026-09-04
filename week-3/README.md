@@ -8,3 +8,4 @@ Leidsin, et 12 toodet ei ole kunagi müüdud ning 231 toote puhul tuleb laoseisu
 
 **Tiimi ühine töö*
 
+https://docs.google.com/presentation/d/1wjQvzZKrIQSJ6KsO-HK0Gior5QC3ARNerBLQJDLHhNU/edit?usp=sharing
