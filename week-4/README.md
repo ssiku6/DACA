@@ -22,3 +22,8 @@ Analüüsisin UrbanStyle'i turunduskanalite efektiivsust SQL-i agregatsioonifunk
 
 Individuaalne SQL-fail:
 `individual/week4_marketing_aggregation.sql`
+
+
+## AI kasutamine
+
+Kasutasin ChatGPT-d SQL-päringute kontrollimisel. AI aitas mul SQL-süntaksit kontrollida.
