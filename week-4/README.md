@@ -27,3 +27,9 @@ Individuaalne SQL-fail:
 ## AI kasutamine
 
 Kasutasin ChatGPT-d SQL-päringute kontrollimisel. AI aitas mul SQL-süntaksit kontrollida.
+
+## Tiimi ühine töö
+
+https://docs.google.com/presentation/d/11OZd8eIa19jPC5OMbAuGoFpMlSK3P-uP-JZpjdlD2Fg/edit?usp=sharing
+
+
