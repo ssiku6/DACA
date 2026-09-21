@@ -34,3 +34,8 @@ Kasutasin müügitulu muutumise näitamiseks joondiagrammi ning olulisemate näi
 ## Tehisintellekti kasutamine
 
 Kasutasin tehisintellekti koostööpartnerina juhendamisel ja selgituste saamisel dashboardi loomise ajal. Visualiseeringute valikud ja lõplikud disainiotsused tegin mina.
+
+## Tiimi ühine töö
+
+Tiimi ühise töö ja koondvaate link:
+https://docs.google.com/presentation/d/1NwglDgLGmR8aKQWKXiZXN-PUTL0dGNypzKjoAN6VcY8/edit?usp=sharing
