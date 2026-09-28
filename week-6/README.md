@@ -19,3 +19,4 @@ Kasutasin ChatGPT-d dashboardi teksti ja annotatsioonide sõnastamisel ning Week
 - [Tartu dashboard](individual/week6_Tartu_dashboard_screenshot.png)
 - [Tartu andmelugu](individual/week6_Tartu_narrative.md)
 - [Tartu executive summary](individual/week6_executive_summary.md)
+- [Tartu dashboard PDF](individual/urbanstyle_dashboard_week6_rollB_tartu_sigrid.pdf)
