@@ -8,6 +8,4 @@ Roll C: RFM-analüüs
 - Loyal Customers: 691 klienti (27,20%)
 
 ### AI kasutamine
-Kasutasin AI-d pandas'e süntaksi, RFM-analüüsi
-ja veateadete mõistmiseks. Kontrollisin ja käivitasin
-AI pakutud koodi ise.
+Kasutasin AI-d pandas'e süntaksi, RFM-analüüsi ja veateadete mõistmiseks. Kontrollisin ja käivitasin pakutud koodi ise.
