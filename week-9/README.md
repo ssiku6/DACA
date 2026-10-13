@@ -1,4 +1,4 @@
-## Nädal 9: Värbamisjuhend
+## Week 9: Värbamisjuhend
 
 **Roll:** A – Palkamisjuht
 
