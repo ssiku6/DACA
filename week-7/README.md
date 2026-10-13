@@ -1,4 +1,4 @@
-## Nädal 7: Python Pandas — RFM kliendisegmenteerimine
+## Week 7: Python Pandas — RFM kliendisegmenteerimine
 
 ### Minu roll
 Roll C: RFM-analüüs
